@@ -1,5 +1,10 @@
 # Sistema de Monitoramento de Temperatura das Pistas de Fórmula E
 
+## Integrantes
+### Mohamed Afif Smaili RM 554445
+### Heitor Prestes RM 554823
+### Lucca Cardinale RM 556668
+
 ## Descrição do Projeto
 
 Este projeto foi desenvolvido para monitorar a temperatura das pistas de Fórmula E utilizando o sensor DHT22 acoplado a um ESP32. As leituras de temperatura são enviadas via Wi-Fi para um broker MQTT (HiveMQ) e visualizadas em um dashboard no Node-RED. Além disso, o ESP32 aciona uma série de LEDs conforme a variação da temperatura.
