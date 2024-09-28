@@ -1,0 +1,49 @@
+[
+    {
+        "id": "dd8546fa55db64b4",
+        "type": "ui_gauge",
+        "z": "e7c21e29a7daa165",
+        "name": "",
+        "group": "107f404d9f4833ec",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Temperatura",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 470,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "107f404d9f4833ec",
+        "type": "ui_group",
+        "name": "Default",
+        "tab": "7f5bd26a10c1e4aa",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7f5bd26a10c1e4aa",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
