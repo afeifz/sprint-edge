@@ -2,6 +2,7 @@
 
 ## Integrantes
 ### Mohamed Afif Smaili RM 554445
+### Gustavo Atanazio RM 559098
 ### Heitor Prestes RM 554823
 ### Lucca Cardinale RM 556668
 
